@@ -144,6 +144,12 @@ El juego usa la primera fuente que encuentre entre Segoe UI, Poppins, Montserrat
 
 ---
 
+## 📄 Licencia
+
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
 <div align="center">
 
 <sub>Hecho con Python y tkinter</sub>
