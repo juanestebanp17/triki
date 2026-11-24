@@ -106,7 +106,9 @@ Como el tablero es pequeño, puede revisar todas las posibilidades en un instant
 ```
 triki/
 ├── triki.py          El juego completo
-└── README.md         Esta página
+├── README.md         Esta página
+├── LICENSE           Licencia MIT
+└── .gitignore        Archivos que Git ignora
 ```
 
 ---
